@@ -12,7 +12,7 @@ It includes functionality for adding and removing items, reducer functions for s
 
 ## 🖼️ Screenshots
 Shown below in order:  
-**1. Fields**
+**1. Tasks**
 
 <p align="center">
   <img src="./docs/screenshots/tasks.png" width="32%">
